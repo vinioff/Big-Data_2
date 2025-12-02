@@ -38,7 +38,7 @@ O dataset cobre locações históricas para treinamento e teste.
 O Gradient Boosting se destacou com os menores erros e maior R², tornando-o o mais preciso para prever locações.
 
 ## Como Executar
-1. Clone o repositório: `git clone https://github.com/seu-usuario/repo-nome.git`
+1. Clone o repositório: `git clone https://github.com/vinioff/Big-Data_2.git`
 2. Instale dependências: `pip install -r requirements.txt` (inclui pandas, scikit-learn, matplotlib, etc.)
 3. Rode o notebook: `jupyter notebook BiG_Data_2.ipynb`
 4. Baixe o dataset via Google Drive ID no código (ou forneça localmente).
